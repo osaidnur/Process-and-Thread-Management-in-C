@@ -1,4 +1,4 @@
-# Process-and-Thread-Management-in-C
+### Process-and-Thread-Management-in-C
 This repository contains a C program that demonstrates matrix multiplication using different approaches, highlighting the impact of optimization techniques such as multiprocessing and multithreading. We will compare the performance of:
 
 1. **Naive Matrix Multiplication**: A straightforward, single-threaded implementation.
